@@ -46,8 +46,8 @@ router.route('/addMany').post((req, res) => {
         .catch(err =>  res.status(400).json('Error: '+ err))
     
     }else{
-        console.log('Document already exists!')
-        res.json('Document already exists!')
+        console.log('Report already exists!')
+        res.json('Report already exists!')
     }
     });
 });

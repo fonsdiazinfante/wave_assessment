@@ -31,6 +31,7 @@ I would do a lot more test driven development with various end to end tests and 
 
 3.- What compromises did you have to make as a result of the time constraints of this challenge?\
 
-I didn't write any tests and or edge case validations on the backend
+I didn't write any tests and or edge case validations on the backend.\
+I also couldn't finish implementing the report part where same id's are grouped together and added depending on what pay period they are on 
 
 

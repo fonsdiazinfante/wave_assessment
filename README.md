@@ -16,6 +16,9 @@ For Backend terminal:
 - CD into the backend folder
 - ### `nodemon server`
 
+As for the Database, currently the URI points to my mongoDB Atlas instance, I have no problem keeping it that way.\
+Tf you wish to change that, go into the .env file inside the database folder and change the connection string.
+
 This should run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 

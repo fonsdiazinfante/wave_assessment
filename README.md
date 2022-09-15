@@ -5,7 +5,7 @@ Welcome to the Wave Assessment made by Alfonso Diaz Infante
 ## To get started
 
 Clone this directory into your local computer.\
-Open 2 terminals (on for back end & another for  front end).\
+Open 2 terminals (one for back end & another for  front end).\
 For your frontend terminal: 
 - CD into the directory
 - ### `npm install` 
